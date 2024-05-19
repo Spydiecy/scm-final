@@ -2,6 +2,7 @@ from flask import Flask, request, jsonify
 app = Flask(__name__, static_folder='static')
 
 # This will hold our expenses data
+#hello..
 expenses = []
 
 @app.route('/')
