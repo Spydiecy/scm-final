@@ -29,7 +29,7 @@ The CSS provides the styling for the page, including colors, fonts, and animatio
 - Implement local storage to persist data across sessions.
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to 
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 MIT
